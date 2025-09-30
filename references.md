@@ -1,3 +1,5 @@
-# References
+ my-resume
+i added conflicts here
 
-* octocat 1 😈
+
+ main
